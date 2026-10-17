@@ -55,4 +55,3 @@ Veillez à :
 - **Indenter correctement** votre code pour plus de lisibilité.
 
 - **Valider votre page** sur [W3C Validator](https://validator.w3.org/).
-
